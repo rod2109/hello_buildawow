@@ -1,0 +1,13 @@
+.jumbotron {
+  text-align: justify;
+  margin: 0px 100px 0px 100px;
+}
+article {
+  height: 350px;
+  width: 100%;
+  background-color: #E9ECF0;
+}
+section {
+  margin: 50px 100px 0px 100px;
+  height: 300px;
+}
